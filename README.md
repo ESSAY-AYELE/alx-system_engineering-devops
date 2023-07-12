@@ -1,3 +1,1 @@
-# alx-system_engineering-devops
-this is a projects on shell
-the it contains projecs of shell
+assginment on expanisons, varibles and alias
